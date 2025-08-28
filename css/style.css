@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+.casanare {
+    background-color: white;
+    text-align: center;
+    
+}
+.indicex {
+    background-color: white;
+    position: absolute; top: 30%; left: 7%;
+    font-size: 20px; color: black;
+    width: 20%;
+    height: 50%;
+    border-radius: 5%;
+    border: 2px solid black;
+    
+}
+
+.infoHuila {
+    background-color: white;
+    position: absolute; top: 20%; left: 5%;
+    font-size: 20px; color: black;
+    width: 25%;
+    height: 40%;
+    border-radius: 5%;
+    border: 2px solid black;
+    text-align: justify;
+}
+.infoHuila2 {
+    background-color: white;
+    position: absolute; top: 20%; left: 5%;
+    font-size: 20px; color: black;
+    width: 25%;
+    height: 40%;
+    border-radius: 5%;
+    border: 2px solid black;
+    text-align: justify;
+}
