@@ -38,3 +38,24 @@ body {
     border: 2px solid black;
     text-align: center;
 }
+.infocasanare {
+    background-color: white;
+    position: absolute; top: 30%; left: 7%;
+    font-size: 20px; color: black;
+    width: 20%;
+    height: 50%;
+    border-radius: 5%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.infocomidacasanare {
+    background-color: white;
+    position: absolute; top: 30%; left: 70%;
+    font-size: 20px; color: black;
+    width: 20%;
+    height: 70%;
+    border-radius: 5%;
+    border: 2px solid black;
+    text-align: center;
+}
